@@ -13,4 +13,4 @@ setInterval(function sldeshow(){
         imgNo=1;
     }
     document.getElementById(imgNo).classList.remove("hide");
-}, 5000);
+}, 8000);
